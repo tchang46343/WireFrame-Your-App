@@ -1,0 +1,71 @@
+
+header{
+    text-align:center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.block{
+    display: block;
+}
+
+.Extras{
+    text-align: right;
+}
+
+.questions{
+    font-size: 12pt;
+    font-style: normal;
+}
+.box li{
+    display: block;
+    width: 30%;
+    margin: 20px auto;
+    list-style: none;
+    border-style: solid;
+    border-radius: 5pt;
+    text-align: center;
+    
+}
+.box1 li{
+    display: block;
+    width: 10%;
+    margin: 20px auto;
+    list-style: none;
+    border-style: solid;
+    border-radius: 5pt;
+    text-align: center; 
+}
+.box2 li{
+    text-align: center; 
+    position: fixed;
+    top: 55%;
+    left: 50%;
+    transform: translate(-55%,-50%);
+    list-style: none;
+    border-radius: 5pt;
+    text-align: center;
+    border-style: solid;
+    width: 8%;
+}
+.answerpage{
+    text-align:center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.box3 li{
+    text-align: center; 
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translate(-55%,-50%);
+    list-style: none;
+    border-radius: 5pt;
+    text-align: center;
+    border-style: solid;
+    width: 8%;
+}
